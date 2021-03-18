@@ -1,3 +1,3 @@
 # LFEA
 
-*Repositório* para LFEA.
+*Repositório* de LFEA.
